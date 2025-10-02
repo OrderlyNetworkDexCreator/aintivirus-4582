@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/officialmcafee",
   "VITE_SEO_SITE_NAME": "AintiVirus Dex",
   "VITE_SEO_SITE_DESCRIPTION": "McAfeeDex by Aintivirus is the official John McAfee dex portal. All fees buy and burn $AINTI.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/aintivirus-4582/",
+  "VITE_SEO_SITE_URL": "https://dex.aintivirus.ai",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@officialmcafee",
