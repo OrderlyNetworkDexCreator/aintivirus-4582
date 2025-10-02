@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
-  "VITE_CUSTOM_MENUS": "Trading, https://dex.aintivirus.ai/perp/PERP_SOL_USDC/; Portofolio, https://dex.aintivirus.ai/portfolio; Markets, https://dex.aintivirus.ai/markets; Leaderboard, https://dex.aintivirus.ai/leaderboard; Website, https://aintivirus.ai; $Ainti, https://solscan.io/account/BAezfVmia8UYLt4rst6PCU4dvL2i2qHzqn4wGhytpNJW",
+  "VITE_CUSTOM_MENUS": "Website, https://aintivirus.ai; Buy AINTI, https://raydium.io/swap/?inputMint=BAezfVmia8UYLt4rst6PCU4dvL2i2qHzqn4wGhytpNJW&outputMint=sol",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/AIntivirus",
   "VITE_DISCORD_URL": "",
